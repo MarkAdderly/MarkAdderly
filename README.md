@@ -32,7 +32,7 @@
 
 ### 📊 Моя статистика GitHub
 <p align="left">
-  <a href="https://github.com/MarkAdderly/MakuTweaker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MarkAdderly&repo=MakuTweaker&theme=tokyonight" height="150" /></a>
+  <a href="https://github.com/MarkAdderly/MakuTweaker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MarkAdderly&repo=MakuTweaker&theme=tokyonight&cache_seconds=60" height="150" /></a>
   &nbsp;
   <a href="https://github.com/MarkAdderly"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkAdderly&layout=compact&theme=tokyonight" alt="Языки" height="150" /></a>
 </p>
