@@ -29,8 +29,3 @@
 * **YouTube:** [@MakuAdarii](https://www.youtube.com/@makuadarii)
 * **Telegram:** [@adderly324](https://t.me/adderly324)
 * **Поддержать на Boosty:** [adderly](https://boosty.to/adderly)
-
----
-
-### 📊 Моя статистика GitHub
-  <a href="https://github.com/MarkAdderly"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkAdderly&layout=compact&theme=tokyonight" alt="Языки" height="150" /></a>
